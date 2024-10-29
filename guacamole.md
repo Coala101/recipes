@@ -4,6 +4,6 @@
 ## Ingredients
 - avocados
 - tomatoes
-- lemon
+- lime
 - salt
 ## Instructions
