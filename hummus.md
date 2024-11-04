@@ -4,5 +4,6 @@
 * lemon
 * olive oil
 * salt
+* tahini
 ## Instructions
 * blend
